@@ -1,0 +1,5 @@
+com\akshatha\relation\Entity\MobileEntity.class
+com\akshatha\relation\Entity\BatteryEntity.class
+com\akshatha\relation\utility\OneToOneTester.class
+com\akshatha\relation\HibernateMapping\App.class
+com\akshatha\relation\repository\MobileRespository.class
